@@ -1,6 +1,6 @@
-var _Symbol = require("core-js/library/fn/symbol/index.js");
-var _Symbol$iterator = require("core-js/library/fn/symbol/iterator.js");
-var _Array$isArray = require("core-js/library/fn/array/is-array.js");
+var _Symbol = require("core-js-version2/library/fn/symbol/index.js");
+var _Symbol$iterator = require("core-js-version2/library/fn/symbol/iterator.js");
+var _Array$isArray = require("core-js-version2/library/fn/array/is-array.js");
 var unsupportedIterableToArray = require("./unsupportedIterableToArray.js");
 function _createForOfIteratorHelperLoose(o, allowArrayLike) {
   var it = typeof _Symbol !== "undefined" && o[_Symbol$iterator] || o["@@iterator"];

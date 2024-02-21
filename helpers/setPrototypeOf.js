@@ -1,4 +1,4 @@
-var _Object$setPrototypeOf = require("core-js/library/fn/object/set-prototype-of.js");
+var _Object$setPrototypeOf = require("core-js-version2/library/fn/object/set-prototype-of.js");
 function _setPrototypeOf(o, p) {
   module.exports = _setPrototypeOf = _Object$setPrototypeOf ? _Object$setPrototypeOf.bind() : function _setPrototypeOf(o, p) {
     o.__proto__ = p;

@@ -1,4 +1,4 @@
-var _Object$keys = require("core-js/library/fn/object/keys.js");
+var _Object$keys = require("core-js-version2/library/fn/object/keys.js");
 function _objectWithoutPropertiesLoose(source, excluded) {
   if (source == null) return {};
   var target = {};

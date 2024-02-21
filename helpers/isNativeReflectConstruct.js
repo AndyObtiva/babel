@@ -1,4 +1,4 @@
-var _Reflect$construct = require("core-js/library/fn/reflect/construct.js");
+var _Reflect$construct = require("core-js-version2/library/fn/reflect/construct.js");
 function _isNativeReflectConstruct() {
   try {
     var t = !Boolean.prototype.valueOf.call(_Reflect$construct(Boolean, [], function () {}));

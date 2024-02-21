@@ -1,9 +1,9 @@
 import _typeof from "./typeof.js";
-import _WeakMap from "core-js/library/fn/weak-map.js";
-import _Object$keys from "core-js/library/fn/object/keys.js";
-import _Object$create from "core-js/library/fn/object/create.js";
-import _Symbol$replace from "core-js/library/fn/symbol/replace.js";
-import _Array$isArray from "core-js/library/fn/array/is-array.js";
+import _WeakMap from "core-js-version2/library/fn/weak-map.js";
+import _Object$keys from "core-js-version2/library/fn/object/keys.js";
+import _Object$create from "core-js-version2/library/fn/object/create.js";
+import _Symbol$replace from "core-js-version2/library/fn/symbol/replace.js";
+import _Array$isArray from "core-js-version2/library/fn/array/is-array.js";
 import setPrototypeOf from "./setPrototypeOf.js";
 import inherits from "./inherits.js";
 export default function _wrapRegExp() {

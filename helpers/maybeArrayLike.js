@@ -1,4 +1,4 @@
-var _Array$isArray = require("core-js/library/fn/array/is-array.js");
+var _Array$isArray = require("core-js-version2/library/fn/array/is-array.js");
 var arrayLikeToArray = require("./arrayLikeToArray.js");
 function _maybeArrayLike(next, arr, i) {
   if (arr && !_Array$isArray(arr) && typeof arr.length === "number") {

@@ -1,5 +1,5 @@
 import _typeof from "./typeof.js";
-import _Symbol$toPrimitive from "core-js/library/fn/symbol/to-primitive.js";
+import _Symbol$toPrimitive from "core-js-version2/library/fn/symbol/to-primitive.js";
 export default function toPrimitive(t, r) {
   if ("object" != _typeof(t) || !t) return t;
   var e = t[_Symbol$toPrimitive];

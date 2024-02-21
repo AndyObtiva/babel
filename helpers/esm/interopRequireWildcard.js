@@ -1,7 +1,7 @@
 import _typeof from "./typeof.js";
-import _WeakMap from "core-js/library/fn/weak-map.js";
-import _Object$defineProperty from "core-js/library/fn/object/define-property.js";
-import _Object$getOwnPropertyDescriptor from "core-js/library/fn/object/get-own-property-descriptor.js";
+import _WeakMap from "core-js-version2/library/fn/weak-map.js";
+import _Object$defineProperty from "core-js-version2/library/fn/object/define-property.js";
+import _Object$getOwnPropertyDescriptor from "core-js-version2/library/fn/object/get-own-property-descriptor.js";
 function _getRequireWildcardCache(e) {
   if ("function" != typeof _WeakMap) return null;
   var r = new _WeakMap(),

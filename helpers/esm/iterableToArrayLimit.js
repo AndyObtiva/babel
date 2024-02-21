@@ -1,5 +1,5 @@
-import _Symbol from "core-js/library/fn/symbol/index.js";
-import _Symbol$iterator from "core-js/library/fn/symbol/iterator.js";
+import _Symbol from "core-js-version2/library/fn/symbol/index.js";
+import _Symbol$iterator from "core-js-version2/library/fn/symbol/iterator.js";
 export default function _iterableToArrayLimit(r, l) {
   var t = null == r ? null : "undefined" != typeof _Symbol && r[_Symbol$iterator] || r["@@iterator"];
   if (null != t) {

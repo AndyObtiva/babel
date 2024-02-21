@@ -1,6 +1,6 @@
-var _Symbol = require("core-js/library/fn/symbol/index.js");
-var _Symbol$for = require("core-js/library/fn/symbol/for.js");
-var _Promise = require("core-js/library/fn/promise.js");
+var _Symbol = require("core-js-version2/library/fn/symbol/index.js");
+var _Symbol$for = require("core-js-version2/library/fn/symbol/for.js");
+var _Promise = require("core-js-version2/library/fn/promise.js");
 function _usingCtx() {
   var r = "function" == typeof SuppressedError ? SuppressedError : function (r, n) {
       var e = new Error();

@@ -1,5 +1,5 @@
-var _Promise = require("core-js/library/fn/promise.js");
-var _Symbol = require("core-js/library/fn/symbol/index.js");
+var _Promise = require("core-js-version2/library/fn/promise.js");
+var _Symbol = require("core-js-version2/library/fn/symbol/index.js");
 var OverloadYield = require("./OverloadYield.js");
 function AsyncGenerator(e) {
   var r, t;

@@ -1,5 +1,5 @@
-var _Object$create = require("core-js/library/fn/object/create.js");
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
+var _Object$create = require("core-js-version2/library/fn/object/create.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
 var setPrototypeOf = require("./setPrototypeOf.js");
 function _inherits(subClass, superClass) {
   if (typeof superClass !== "function" && superClass !== null) {

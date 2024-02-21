@@ -1,7 +1,7 @@
-var _Reflect$get = require("core-js/library/fn/reflect/get.js");
-var _Reflect$getOwnPropertyDescriptor = require("core-js/library/fn/reflect/get-own-property-descriptor.js");
-var _Reflect$has = require("core-js/library/fn/reflect/has.js");
-var _Reflect$ownKeys = require("core-js/library/fn/reflect/own-keys.js");
+var _Reflect$get = require("core-js-version2/library/fn/reflect/get.js");
+var _Reflect$getOwnPropertyDescriptor = require("core-js-version2/library/fn/reflect/get-own-property-descriptor.js");
+var _Reflect$has = require("core-js-version2/library/fn/reflect/has.js");
+var _Reflect$ownKeys = require("core-js-version2/library/fn/reflect/own-keys.js");
 function _importDeferProxy(e) {
   var t = null,
     constValue = function constValue(e) {

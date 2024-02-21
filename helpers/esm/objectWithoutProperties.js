@@ -1,4 +1,4 @@
-import _Object$getOwnPropertySymbols from "core-js/library/fn/object/get-own-property-symbols.js";
+import _Object$getOwnPropertySymbols from "core-js-version2/library/fn/object/get-own-property-symbols.js";
 import objectWithoutPropertiesLoose from "./objectWithoutPropertiesLoose.js";
 export default function _objectWithoutProperties(source, excluded) {
   if (source == null) return {};

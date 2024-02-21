@@ -1,6 +1,6 @@
-var _Reflect$set = require("core-js/library/fn/reflect/set.js");
-var _Object$getOwnPropertyDescriptor = require("core-js/library/fn/object/get-own-property-descriptor.js");
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
+var _Reflect$set = require("core-js-version2/library/fn/reflect/set.js");
+var _Object$getOwnPropertyDescriptor = require("core-js-version2/library/fn/object/get-own-property-descriptor.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
 var superPropBase = require("./superPropBase.js");
 var defineProperty = require("./defineProperty.js");
 function set(target, property, value, receiver) {

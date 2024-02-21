@@ -1,6 +1,6 @@
-import _Symbol from "core-js/library/fn/symbol/index.js";
-import _Symbol$for from "core-js/library/fn/symbol/for.js";
-import _Promise from "core-js/library/fn/promise.js";
+import _Symbol from "core-js-version2/library/fn/symbol/index.js";
+import _Symbol$for from "core-js-version2/library/fn/symbol/for.js";
+import _Promise from "core-js-version2/library/fn/promise.js";
 export default function _usingCtx() {
   var r = "function" == typeof SuppressedError ? SuppressedError : function (r, n) {
       var e = new Error();

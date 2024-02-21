@@ -1,5 +1,5 @@
-var _Symbol = require("core-js/library/fn/symbol/index.js");
-var _Symbol$iterator = require("core-js/library/fn/symbol/iterator.js");
+var _Symbol = require("core-js-version2/library/fn/symbol/index.js");
+var _Symbol$iterator = require("core-js-version2/library/fn/symbol/iterator.js");
 function _iterableToArrayLimit(r, l) {
   var t = null == r ? null : "undefined" != typeof _Symbol && r[_Symbol$iterator] || r["@@iterator"];
   if (null != t) {

@@ -1,4 +1,4 @@
-import _Reflect$construct from "core-js/library/fn/reflect/construct.js";
+import _Reflect$construct from "core-js-version2/library/fn/reflect/construct.js";
 import getPrototypeOf from "./getPrototypeOf.js";
 import isNativeReflectConstruct from "./isNativeReflectConstruct.js";
 import possibleConstructorReturn from "./possibleConstructorReturn.js";

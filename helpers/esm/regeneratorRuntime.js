@@ -1,10 +1,10 @@
 import _typeof from "./typeof.js";
-import _Object$defineProperty from "core-js/library/fn/object/define-property.js";
-import _Symbol from "core-js/library/fn/symbol/index.js";
-import _Object$create from "core-js/library/fn/object/create.js";
-import _Object$getPrototypeOf from "core-js/library/fn/object/get-prototype-of.js";
-import _Object$setPrototypeOf from "core-js/library/fn/object/set-prototype-of.js";
-import _Promise from "core-js/library/fn/promise.js";
+import _Object$defineProperty from "core-js-version2/library/fn/object/define-property.js";
+import _Symbol from "core-js-version2/library/fn/symbol/index.js";
+import _Object$create from "core-js-version2/library/fn/object/create.js";
+import _Object$getPrototypeOf from "core-js-version2/library/fn/object/get-prototype-of.js";
+import _Object$setPrototypeOf from "core-js-version2/library/fn/object/set-prototype-of.js";
+import _Promise from "core-js-version2/library/fn/promise.js";
 export default function _regeneratorRuntime() {
   "use strict"; /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
   _regeneratorRuntime = function _regeneratorRuntime() {

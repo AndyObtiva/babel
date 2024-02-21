@@ -1,5 +1,5 @@
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
-var _Object$getOwnPropertySymbols = require("core-js/library/fn/object/get-own-property-symbols.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
+var _Object$getOwnPropertySymbols = require("core-js-version2/library/fn/object/get-own-property-symbols.js");
 function _defineEnumerableProperties(obj, descs) {
   for (var key in descs) {
     var desc = descs[key];

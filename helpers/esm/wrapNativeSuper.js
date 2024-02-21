@@ -1,5 +1,5 @@
-import _Map from "core-js/library/fn/map.js";
-import _Object$create from "core-js/library/fn/object/create.js";
+import _Map from "core-js-version2/library/fn/map.js";
+import _Object$create from "core-js-version2/library/fn/object/create.js";
 import getPrototypeOf from "./getPrototypeOf.js";
 import setPrototypeOf from "./setPrototypeOf.js";
 import isNativeFunction from "./isNativeFunction.js";

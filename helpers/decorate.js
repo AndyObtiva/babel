@@ -1,6 +1,6 @@
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
-var _Symbol$toStringTag = require("core-js/library/fn/symbol/to-string-tag.js");
-var _Object$assign = require("core-js/library/fn/object/assign.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
+var _Symbol$toStringTag = require("core-js-version2/library/fn/symbol/to-string-tag.js");
+var _Object$assign = require("core-js-version2/library/fn/object/assign.js");
 var toArray = require("./toArray.js");
 var toPropertyKey = require("./toPropertyKey.js");
 function _decorate(decorators, factory, superClass, mixins) {

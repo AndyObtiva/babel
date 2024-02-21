@@ -1,4 +1,4 @@
-var _Object$create = require("core-js/library/fn/object/create.js");
+var _Object$create = require("core-js-version2/library/fn/object/create.js");
 var setPrototypeOf = require("./setPrototypeOf.js");
 function _inheritsLoose(subClass, superClass) {
   subClass.prototype = _Object$create(superClass.prototype);

@@ -1,6 +1,6 @@
-import _Reflect$set from "core-js/library/fn/reflect/set.js";
-import _Object$getOwnPropertyDescriptor from "core-js/library/fn/object/get-own-property-descriptor.js";
-import _Object$defineProperty from "core-js/library/fn/object/define-property.js";
+import _Reflect$set from "core-js-version2/library/fn/reflect/set.js";
+import _Object$getOwnPropertyDescriptor from "core-js-version2/library/fn/object/get-own-property-descriptor.js";
+import _Object$defineProperty from "core-js-version2/library/fn/object/define-property.js";
 import superPropBase from "./superPropBase.js";
 import defineProperty from "./defineProperty.js";
 function set(target, property, value, receiver) {

@@ -1,6 +1,6 @@
-import _Promise from "core-js/library/fn/promise.js";
-import _Symbol from "core-js/library/fn/symbol/index.js";
-import _Symbol$iterator from "core-js/library/fn/symbol/iterator.js";
+import _Promise from "core-js-version2/library/fn/promise.js";
+import _Symbol from "core-js-version2/library/fn/symbol/index.js";
+import _Symbol$iterator from "core-js-version2/library/fn/symbol/iterator.js";
 import OverloadYield from "./OverloadYield.js";
 export default function _asyncGeneratorDelegate(t) {
   var e = {},

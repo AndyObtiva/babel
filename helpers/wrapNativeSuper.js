@@ -1,5 +1,5 @@
-var _Map = require("core-js/library/fn/map.js");
-var _Object$create = require("core-js/library/fn/object/create.js");
+var _Map = require("core-js-version2/library/fn/map.js");
+var _Object$create = require("core-js-version2/library/fn/object/create.js");
 var getPrototypeOf = require("./getPrototypeOf.js");
 var setPrototypeOf = require("./setPrototypeOf.js");
 var isNativeFunction = require("./isNativeFunction.js");

@@ -1,7 +1,7 @@
 var _typeof = require("./typeof.js")["default"];
-var _WeakMap = require("core-js/library/fn/weak-map.js");
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
-var _Object$getOwnPropertyDescriptor = require("core-js/library/fn/object/get-own-property-descriptor.js");
+var _WeakMap = require("core-js-version2/library/fn/weak-map.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
+var _Object$getOwnPropertyDescriptor = require("core-js-version2/library/fn/object/get-own-property-descriptor.js");
 function _getRequireWildcardCache(e) {
   if ("function" != typeof _WeakMap) return null;
   var r = new _WeakMap(),

@@ -1,4 +1,4 @@
-import _Object$defineProperty from "core-js/library/fn/object/define-property.js";
+import _Object$defineProperty from "core-js-version2/library/fn/object/define-property.js";
 import toPropertyKey from "./toPropertyKey.js";
 export default function _defineProperty(obj, key, value) {
   key = toPropertyKey(key);

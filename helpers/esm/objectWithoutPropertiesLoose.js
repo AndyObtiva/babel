@@ -1,4 +1,4 @@
-import _Object$keys from "core-js/library/fn/object/keys.js";
+import _Object$keys from "core-js-version2/library/fn/object/keys.js";
 export default function _objectWithoutPropertiesLoose(source, excluded) {
   if (source == null) return {};
   var target = {};

@@ -1,6 +1,6 @@
-var _Object$keys = require("core-js/library/fn/object/keys.js");
-var _Object$getOwnPropertySymbols = require("core-js/library/fn/object/get-own-property-symbols.js");
-var _Object$getOwnPropertyDescriptor = require("core-js/library/fn/object/get-own-property-descriptor.js");
+var _Object$keys = require("core-js-version2/library/fn/object/keys.js");
+var _Object$getOwnPropertySymbols = require("core-js-version2/library/fn/object/get-own-property-symbols.js");
+var _Object$getOwnPropertyDescriptor = require("core-js-version2/library/fn/object/get-own-property-descriptor.js");
 var defineProperty = require("./defineProperty.js");
 function _objectSpread(target) {
   for (var i = 1; i < arguments.length; i++) {

@@ -1,10 +1,10 @@
 var _typeof = require("./typeof.js")["default"];
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
-var _Symbol = require("core-js/library/fn/symbol/index.js");
-var _Object$create = require("core-js/library/fn/object/create.js");
-var _Object$getPrototypeOf = require("core-js/library/fn/object/get-prototype-of.js");
-var _Object$setPrototypeOf = require("core-js/library/fn/object/set-prototype-of.js");
-var _Promise = require("core-js/library/fn/promise.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
+var _Symbol = require("core-js-version2/library/fn/symbol/index.js");
+var _Object$create = require("core-js-version2/library/fn/object/create.js");
+var _Object$getPrototypeOf = require("core-js-version2/library/fn/object/get-prototype-of.js");
+var _Object$setPrototypeOf = require("core-js-version2/library/fn/object/set-prototype-of.js");
+var _Promise = require("core-js-version2/library/fn/promise.js");
 function _regeneratorRuntime() {
   "use strict"; /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
   module.exports = _regeneratorRuntime = function _regeneratorRuntime() {

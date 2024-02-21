@@ -1,5 +1,5 @@
-import _Promise from "core-js/library/fn/promise.js";
-import _Symbol from "core-js/library/fn/symbol/index.js";
+import _Promise from "core-js-version2/library/fn/promise.js";
+import _Symbol from "core-js-version2/library/fn/symbol/index.js";
 import OverloadYield from "./OverloadYield.js";
 export default function AsyncGenerator(e) {
   var r, t;

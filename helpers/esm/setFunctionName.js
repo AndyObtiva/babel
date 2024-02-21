@@ -1,5 +1,5 @@
 import _typeof from "./typeof.js";
-import _Object$defineProperty from "core-js/library/fn/object/define-property.js";
+import _Object$defineProperty from "core-js-version2/library/fn/object/define-property.js";
 export default function setFunctionName(e, t, n) {
   "symbol" == _typeof(t) && (t = (t = t.description) ? "[" + t + "]" : "");
   try {

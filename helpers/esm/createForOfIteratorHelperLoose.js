@@ -1,6 +1,6 @@
-import _Symbol from "core-js/library/fn/symbol/index.js";
-import _Symbol$iterator from "core-js/library/fn/symbol/iterator.js";
-import _Array$isArray from "core-js/library/fn/array/is-array.js";
+import _Symbol from "core-js-version2/library/fn/symbol/index.js";
+import _Symbol$iterator from "core-js-version2/library/fn/symbol/iterator.js";
+import _Array$isArray from "core-js-version2/library/fn/array/is-array.js";
 import unsupportedIterableToArray from "./unsupportedIterableToArray.js";
 export default function _createForOfIteratorHelperLoose(o, allowArrayLike) {
   var it = typeof _Symbol !== "undefined" && o[_Symbol$iterator] || o["@@iterator"];

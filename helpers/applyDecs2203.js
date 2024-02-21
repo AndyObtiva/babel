@@ -1,7 +1,7 @@
-var _Object$getOwnPropertyDescriptor = require("core-js/library/fn/object/get-own-property-descriptor.js");
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
-var _Map = require("core-js/library/fn/map.js");
-var _Array$isArray = require("core-js/library/fn/array/is-array.js");
+var _Object$getOwnPropertyDescriptor = require("core-js-version2/library/fn/object/get-own-property-descriptor.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
+var _Map = require("core-js-version2/library/fn/map.js");
+var _Array$isArray = require("core-js-version2/library/fn/array/is-array.js");
 var _typeof = require("./typeof.js")["default"];
 function applyDecs2203Factory() {
   function createAddInitializerMethod(e, t) {

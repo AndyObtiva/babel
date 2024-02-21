@@ -1,6 +1,6 @@
-var _Object$getOwnPropertyNames = require("core-js/library/fn/object/get-own-property-names.js");
-var _Object$getOwnPropertyDescriptor = require("core-js/library/fn/object/get-own-property-descriptor.js");
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
+var _Object$getOwnPropertyNames = require("core-js-version2/library/fn/object/get-own-property-names.js");
+var _Object$getOwnPropertyDescriptor = require("core-js-version2/library/fn/object/get-own-property-descriptor.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
 function _defaults(obj, defaults) {
   var keys = _Object$getOwnPropertyNames(defaults);
   for (var i = 0; i < keys.length; i++) {

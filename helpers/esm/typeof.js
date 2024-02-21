@@ -1,5 +1,5 @@
-import _Symbol from "core-js/library/fn/symbol/index.js";
-import _Symbol$iterator from "core-js/library/fn/symbol/iterator.js";
+import _Symbol from "core-js-version2/library/fn/symbol/index.js";
+import _Symbol$iterator from "core-js-version2/library/fn/symbol/iterator.js";
 export default function _typeof(o) {
   "@babel/helpers - typeof";
 

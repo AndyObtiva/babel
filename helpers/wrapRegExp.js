@@ -1,9 +1,9 @@
 var _typeof = require("./typeof.js")["default"];
-var _WeakMap = require("core-js/library/fn/weak-map.js");
-var _Object$keys = require("core-js/library/fn/object/keys.js");
-var _Object$create = require("core-js/library/fn/object/create.js");
-var _Symbol$replace = require("core-js/library/fn/symbol/replace.js");
-var _Array$isArray = require("core-js/library/fn/array/is-array.js");
+var _WeakMap = require("core-js-version2/library/fn/weak-map.js");
+var _Object$keys = require("core-js-version2/library/fn/object/keys.js");
+var _Object$create = require("core-js-version2/library/fn/object/create.js");
+var _Symbol$replace = require("core-js-version2/library/fn/symbol/replace.js");
+var _Array$isArray = require("core-js-version2/library/fn/array/is-array.js");
 var setPrototypeOf = require("./setPrototypeOf.js");
 var inherits = require("./inherits.js");
 function _wrapRegExp() {

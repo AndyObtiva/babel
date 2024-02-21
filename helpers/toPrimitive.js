@@ -1,4 +1,4 @@
-var _Symbol$toPrimitive = require("core-js/library/fn/symbol/to-primitive.js");
+var _Symbol$toPrimitive = require("core-js-version2/library/fn/symbol/to-primitive.js");
 var _typeof = require("./typeof.js")["default"];
 function toPrimitive(t, r) {
   if ("object" != _typeof(t) || !t) return t;

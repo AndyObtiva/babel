@@ -1,5 +1,5 @@
-var _Object$keys = require("core-js/library/fn/object/keys.js");
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
+var _Object$keys = require("core-js-version2/library/fn/object/keys.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
 function _applyDecoratedDescriptor(target, property, decorators, descriptor, context) {
   var desc = {};
   _Object$keys(descriptor).forEach(function (key) {

@@ -1,6 +1,6 @@
-import _Symbol from "core-js/library/fn/symbol/index.js";
-import _Symbol$iterator from "core-js/library/fn/symbol/iterator.js";
-import _Promise from "core-js/library/fn/promise.js";
+import _Symbol from "core-js-version2/library/fn/symbol/index.js";
+import _Symbol$iterator from "core-js-version2/library/fn/symbol/iterator.js";
+import _Promise from "core-js-version2/library/fn/promise.js";
 export default function _asyncIterator(r) {
   var n,
     t,

@@ -1,5 +1,5 @@
-var _Object$freeze = require("core-js/library/fn/object/freeze.js");
-var _Object$defineProperties = require("core-js/library/fn/object/define-properties.js");
+var _Object$freeze = require("core-js-version2/library/fn/object/freeze.js");
+var _Object$defineProperties = require("core-js-version2/library/fn/object/define-properties.js");
 function _taggedTemplateLiteral(strings, raw) {
   if (!raw) {
     raw = strings.slice(0);

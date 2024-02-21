@@ -1,6 +1,6 @@
-import _Object$defineProperty from "core-js/library/fn/object/define-property.js";
-import _Symbol$toStringTag from "core-js/library/fn/symbol/to-string-tag.js";
-import _Object$assign from "core-js/library/fn/object/assign.js";
+import _Object$defineProperty from "core-js-version2/library/fn/object/define-property.js";
+import _Symbol$toStringTag from "core-js-version2/library/fn/symbol/to-string-tag.js";
+import _Object$assign from "core-js-version2/library/fn/object/assign.js";
 import toArray from "./toArray.js";
 import toPropertyKey from "./toPropertyKey.js";
 export default function _decorate(decorators, factory, superClass, mixins) {

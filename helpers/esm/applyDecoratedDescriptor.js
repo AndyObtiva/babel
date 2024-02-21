@@ -1,5 +1,5 @@
-import _Object$keys from "core-js/library/fn/object/keys.js";
-import _Object$defineProperty from "core-js/library/fn/object/define-property.js";
+import _Object$keys from "core-js-version2/library/fn/object/keys.js";
+import _Object$defineProperty from "core-js-version2/library/fn/object/define-property.js";
 export default function _applyDecoratedDescriptor(target, property, decorators, descriptor, context) {
   var desc = {};
   _Object$keys(descriptor).forEach(function (key) {

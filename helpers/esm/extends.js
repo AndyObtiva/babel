@@ -1,4 +1,4 @@
-import _Object$assign from "core-js/library/fn/object/assign.js";
+import _Object$assign from "core-js-version2/library/fn/object/assign.js";
 export default function _extends() {
   _extends = _Object$assign ? _Object$assign.bind() : function (target) {
     for (var i = 1; i < arguments.length; i++) {

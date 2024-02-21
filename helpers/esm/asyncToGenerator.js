@@ -1,4 +1,4 @@
-import _Promise from "core-js/library/fn/promise.js";
+import _Promise from "core-js-version2/library/fn/promise.js";
 function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) {
   try {
     var info = gen[key](arg);

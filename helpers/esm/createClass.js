@@ -1,4 +1,4 @@
-import _Object$defineProperty from "core-js/library/fn/object/define-property.js";
+import _Object$defineProperty from "core-js-version2/library/fn/object/define-property.js";
 import toPropertyKey from "./toPropertyKey.js";
 function _defineProperties(target, props) {
   for (var i = 0; i < props.length; i++) {

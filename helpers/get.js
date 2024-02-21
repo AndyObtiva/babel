@@ -1,5 +1,5 @@
-var _Reflect$get = require("core-js/library/fn/reflect/get.js");
-var _Object$getOwnPropertyDescriptor = require("core-js/library/fn/object/get-own-property-descriptor.js");
+var _Reflect$get = require("core-js-version2/library/fn/reflect/get.js");
+var _Object$getOwnPropertyDescriptor = require("core-js-version2/library/fn/object/get-own-property-descriptor.js");
 var superPropBase = require("./superPropBase.js");
 function _get() {
   if (typeof Reflect !== "undefined" && _Reflect$get) {

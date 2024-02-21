@@ -1,5 +1,5 @@
-import _Symbol from "core-js/library/fn/symbol/index.js";
-import _Symbol$for from "core-js/library/fn/symbol/for.js";
+import _Symbol from "core-js-version2/library/fn/symbol/index.js";
+import _Symbol$for from "core-js-version2/library/fn/symbol/for.js";
 var REACT_ELEMENT_TYPE;
 export default function _createRawReactElement(e, r, E, l) {
   REACT_ELEMENT_TYPE || (REACT_ELEMENT_TYPE = "function" == typeof _Symbol && _Symbol$for && _Symbol$for("react.element") || 60103);

@@ -1,4 +1,4 @@
-var _Reflect$construct = require("core-js/library/fn/reflect/construct.js");
+var _Reflect$construct = require("core-js-version2/library/fn/reflect/construct.js");
 var getPrototypeOf = require("./getPrototypeOf.js");
 var isNativeReflectConstruct = require("./isNativeReflectConstruct.js");
 var possibleConstructorReturn = require("./possibleConstructorReturn.js");

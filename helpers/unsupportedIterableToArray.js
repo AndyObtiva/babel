@@ -1,4 +1,4 @@
-var _Array$from = require("core-js/library/fn/array/from.js");
+var _Array$from = require("core-js-version2/library/fn/array/from.js");
 var arrayLikeToArray = require("./arrayLikeToArray.js");
 function _unsupportedIterableToArray(o, minLen) {
   if (!o) return;

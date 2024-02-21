@@ -1,4 +1,4 @@
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
 var _typeof = require("./typeof.js")["default"];
 function setFunctionName(e, t, n) {
   "symbol" == _typeof(t) && (t = (t = t.description) ? "[" + t + "]" : "");

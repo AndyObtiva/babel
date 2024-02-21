@@ -1,5 +1,5 @@
-var _Object$create = require("core-js/library/fn/object/create.js");
-var _Promise = require("core-js/library/fn/promise.js");
+var _Object$create = require("core-js-version2/library/fn/object/create.js");
+var _Promise = require("core-js-version2/library/fn/promise.js");
 function dispose_SuppressedError(r, e) {
   return "undefined" != typeof SuppressedError ? dispose_SuppressedError = SuppressedError : (dispose_SuppressedError = function dispose_SuppressedError(r, e) {
     this.suppressed = e, this.error = r, this.stack = new Error().stack;

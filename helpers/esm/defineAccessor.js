@@ -1,4 +1,4 @@
-import _Object$defineProperty from "core-js/library/fn/object/define-property.js";
+import _Object$defineProperty from "core-js-version2/library/fn/object/define-property.js";
 export default function _defineAccessor(e, r, n, t) {
   var c = {
     configurable: !0,

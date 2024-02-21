@@ -1,4 +1,4 @@
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
 var toPropertyKey = require("./toPropertyKey.js");
 function _defineProperties(target, props) {
   for (var i = 0; i < props.length; i++) {

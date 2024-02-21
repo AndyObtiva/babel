@@ -1,4 +1,4 @@
-var _Object$defineProperty = require("core-js/library/fn/object/define-property.js");
+var _Object$defineProperty = require("core-js-version2/library/fn/object/define-property.js");
 function _defineAccessor(e, r, n, t) {
   var c = {
     configurable: !0,

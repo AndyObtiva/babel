@@ -1,4 +1,4 @@
-var _Object$getOwnPropertySymbols = require("core-js/library/fn/object/get-own-property-symbols.js");
+var _Object$getOwnPropertySymbols = require("core-js-version2/library/fn/object/get-own-property-symbols.js");
 var objectWithoutPropertiesLoose = require("./objectWithoutPropertiesLoose.js");
 function _objectWithoutProperties(source, excluded) {
   if (source == null) return {};
