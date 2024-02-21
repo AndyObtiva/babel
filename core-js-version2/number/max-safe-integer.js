@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/number/max-safe-integer");
+module.exports = require("core-js-version2/library/fn/number/max-safe-integer");

@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/math/tanh");
+module.exports = require("core-js-version2/library/fn/math/tanh");

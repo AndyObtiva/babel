@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/symbol/unscopables");
+module.exports = require("core-js-version2/library/fn/symbol/unscopables");

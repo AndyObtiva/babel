@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/number/is-integer");
+module.exports = require("core-js-version2/library/fn/number/is-integer");

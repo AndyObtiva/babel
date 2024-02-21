@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/string/from-code-point");
+module.exports = require("core-js-version2/library/fn/string/from-code-point");

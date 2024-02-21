@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/reflect/set-prototype-of");
+module.exports = require("core-js-version2/library/fn/reflect/set-prototype-of");

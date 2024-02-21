@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/set");
+module.exports = require("core-js-version2/library/fn/set");

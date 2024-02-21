@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/array/is-array");
+module.exports = require("core-js-version2/library/fn/array/is-array");

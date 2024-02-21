@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/weak-set");
+module.exports = require("core-js-version2/library/fn/weak-set");

@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/get-iterator");
+module.exports = require("core-js-version2/library/fn/get-iterator");

@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/is-iterable");
+module.exports = require("core-js-version2/library/fn/is-iterable");

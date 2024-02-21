@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/reflect/get");
+module.exports = require("core-js-version2/library/fn/reflect/get");

@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/reflect/own-keys");
+module.exports = require("core-js-version2/library/fn/reflect/own-keys");

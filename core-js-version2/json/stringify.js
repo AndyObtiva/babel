@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/json/stringify");
+module.exports = require("core-js-version2/library/fn/json/stringify");

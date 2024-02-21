@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/clear-immediate");
+module.exports = require("core-js-version2/library/fn/clear-immediate");

@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/object/seal");
+module.exports = require("core-js-version2/library/fn/object/seal");

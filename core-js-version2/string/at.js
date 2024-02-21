@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/string/at");
+module.exports = require("core-js-version2/library/fn/string/at");

@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/number/epsilon");
+module.exports = require("core-js-version2/library/fn/number/epsilon");

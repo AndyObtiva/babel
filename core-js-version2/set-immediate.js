@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/set-immediate");
+module.exports = require("core-js-version2/library/fn/set-immediate");

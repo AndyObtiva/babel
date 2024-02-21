@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/math/trunc");
+module.exports = require("core-js-version2/library/fn/math/trunc");

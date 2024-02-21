@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/date/now");
+module.exports = require("core-js-version2/library/fn/date/now");

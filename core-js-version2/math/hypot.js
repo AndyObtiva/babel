@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/math/hypot");
+module.exports = require("core-js-version2/library/fn/math/hypot");

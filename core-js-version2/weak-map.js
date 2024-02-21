@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/weak-map");
+module.exports = require("core-js-version2/library/fn/weak-map");

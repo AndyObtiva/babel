@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/object/define-property");
+module.exports = require("core-js-version2/library/fn/object/define-property");

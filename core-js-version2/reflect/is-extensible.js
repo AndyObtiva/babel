@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/reflect/is-extensible");
+module.exports = require("core-js-version2/library/fn/reflect/is-extensible");

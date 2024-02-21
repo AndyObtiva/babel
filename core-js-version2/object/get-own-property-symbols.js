@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/object/get-own-property-symbols");
+module.exports = require("core-js-version2/library/fn/object/get-own-property-symbols");

@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/symbol/key-for");
+module.exports = require("core-js-version2/library/fn/symbol/key-for");

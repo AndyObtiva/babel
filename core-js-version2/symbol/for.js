@@ -1,1 +1,1 @@
-module.exports = require("core-js/library/fn/symbol/for");
+module.exports = require("core-js-version2/library/fn/symbol/for");
